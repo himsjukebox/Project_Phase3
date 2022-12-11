@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-11T21:14:04Z" name="Default suite" finished-at="2022-12-11T21:14:07Z" duration-ms="3288">
+    <groups>
+    </groups>
+    <test started-at="2022-12-11T21:14:04Z" name="Default test" finished-at="2022-12-11T21:14:07Z" duration-ms="3288">
+      <class name="com.employeeDB.Phase3_Project.EndToEndTest">
+        <test-method signature="GetEmpTest1()[pri:0, instance:com.employeeDB.Phase3_Project.EndToEndTest@609db546]" started-at="2022-12-11T21:14:04Z" name="GetEmpTest1" finished-at="2022-12-11T21:14:07Z" duration-ms="3261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetEmpTest1 -->
+      </class> <!-- com.employeeDB.Phase3_Project.EndToEndTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
